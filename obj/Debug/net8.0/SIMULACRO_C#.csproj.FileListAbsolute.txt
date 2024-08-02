@@ -1,0 +1,14 @@
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.AssemblyInfoInputs.cache
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.AssemblyInfo.cs
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.csproj.CoreCompileInputs.cache
+/home/riwip5-006/C#/SIMULACRO_C#/bin/Debug/net8.0/SIMULACRO_C#
+/home/riwip5-006/C#/SIMULACRO_C#/bin/Debug/net8.0/SIMULACRO_C#.deps.json
+/home/riwip5-006/C#/SIMULACRO_C#/bin/Debug/net8.0/SIMULACRO_C#.runtimeconfig.json
+/home/riwip5-006/C#/SIMULACRO_C#/bin/Debug/net8.0/SIMULACRO_C#.dll
+/home/riwip5-006/C#/SIMULACRO_C#/bin/Debug/net8.0/SIMULACRO_C#.pdb
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.dll
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/refint/SIMULACRO_C#.dll
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.pdb
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/SIMULACRO_C#.genruntimeconfig.cache
+/home/riwip5-006/C#/SIMULACRO_C#/obj/Debug/net8.0/ref/SIMULACRO_C#.dll
